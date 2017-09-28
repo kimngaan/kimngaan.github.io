@@ -53,6 +53,9 @@ a:hover {
   padding: 50px;
   font-weight: lighter;
 }
+#footer ul {
+   list-style: none;
+}
 
 #footer a {
   color: lightgrey;
@@ -60,4 +63,24 @@ a:hover {
 }
 #footer a:hover {
   color: white;
+}
+ 
+
+
+#footer {
+  text-align: center;
+ 
+}
+
+.footer li {
+  display: inline-block;
+  margin: auto;
+  width: 50px;
+  height: auto;
+}
+
+.row {
+  float: left;
+  display: inline-block;
+}
 }

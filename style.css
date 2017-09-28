@@ -17,6 +17,15 @@ h2 {
   color: pink;
   font-weight: bold;
   font-size: 12px;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+img {
+  display: block;
+  margin: auto;
 }
 a {
   color: lightblue;
@@ -44,15 +53,20 @@ a:hover {
   font-size: 30px;
   font-weight: lighter;
 }
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  display: inline-block;
+ 
+}
+
 #footer{
   padding: 30px;
   background: rgb(30, 30, 30);
   color: lightgrey;
 }
-.card{
-  padding: 50px;
-  font-weight: lighter;
-}
+
 #footer ul {
    list-style: none;
 }
@@ -77,10 +91,4 @@ a:hover {
   margin: auto;
   width: 50px;
   height: auto;
-}
-
-.row {
-  float: left;
-  display: inline-block;
-}
 }

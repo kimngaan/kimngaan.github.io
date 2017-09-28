@@ -76,6 +76,7 @@ a:hover {
   padding: 30px;
   background: rgb(30, 30, 30);
   color: lightgrey;
+  text-align: center;
 }
 
 #footer ul {
@@ -90,16 +91,12 @@ a:hover {
   color: white;
 }
  
-
-
-#footer {
-  text-align: center;
- 
+.footer {
+  margin:auto;
+  margin-right: 40px;
 }
-
 .footer li {
   display: inline-block;
-  margin: auto;
   width: 50px;
   height: auto;
 }

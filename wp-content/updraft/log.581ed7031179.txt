@@ -1,0 +1,150 @@
+0000.000 (0) Opened log file at time: Sat, 10 Feb 2018 16:35:06 +0000 on http://dearfuturecompany.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.8.5 PHP: 7.0.19 (apache2handler, Linux freeweb2.byetcluster.com 2.6.32-673.26.1.lve1.4.27.el6.x86_64 #1 SMP Sun May 7 19:22:54 EDT 2017 x86_64) MySQL: 5.6.21 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 22.4M | 18M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.007 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.009 (0) Semaphore (fd, wp2s_options) being initialised
+0000.013 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.015 (0) Set semaphore last lock (fd) time to 2018-02-10 16:35:06
+0000.016 (0) Semaphore lock (fd) complete
+0000.021 (0) Backup run: resumption=0, nonce=581ed7031179, begun at=1518280506 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1518280806) in case this run gets aborted
+0000.041 (0) Checking if we have a zip executable available
+0000.043 (0) Creation of backups of directories: beginning
+0000.046 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.627 (0) Total entities for the zip file: 228 directories, 1391 files (0 skipped as non-modified), 21.4 MB
+0003.633 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.123 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 100 files added (on-disk size: 42.4 KB)
+0004.186 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 200 files added (on-disk size: 42.4 KB)
+0004.201 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 300 files added (on-disk size: 42.4 KB)
+0004.215 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 400 files added (on-disk size: 42.4 KB)
+0004.229 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 500 files added (on-disk size: 42.4 KB)
+0004.230 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.6 MB, 1391 files batched, 501 (502) added so far); re-opening (prior size: 42.4 KB)
+0012.167 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 600 files added (on-disk size: 3838.6 KB)
+0013.338 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 700 files added (on-disk size: 3838.6 KB)
+0013.352 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 800 files added (on-disk size: 3838.6 KB)
+0013.367 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 900 files added (on-disk size: 3838.6 KB)
+0013.380 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 1000 files added (on-disk size: 3838.6 KB)
+0013.382 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 1391 files batched, 501 (1003) added so far); re-opening (prior size: 3838.6 KB)
+0018.169 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 1100 files added (on-disk size: 4513 KB)
+0020.269 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 1200 files added (on-disk size: 4513 KB)
+0020.281 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip.tmp: 1300 files added (on-disk size: 4513 KB)
+0032.779 (0) Created plugins zip (0) - 6538.4 KB in 32.7 s (199.8 KB/s) (sha1: e30c2dfed41f5d172d5c354286458561bdaa6b93, sha256: 84ad457957031b3f613850facc23863da993cf99970507a134690cf4466fc2ac)
+0035.531 (0) Beginning creation of dump of themes (split every: 400 MB)
+0044.789 (0) Total entities for the zip file: 53 directories, 427 files (0 skipped as non-modified), 7.4 MB
+0044.791 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0044.818 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip.tmp: 100 files added (on-disk size: 7.4 KB)
+0044.832 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip.tmp: 200 files added (on-disk size: 7.4 KB)
+0044.844 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip.tmp: 300 files added (on-disk size: 7.4 KB)
+0044.857 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip.tmp: 400 files added (on-disk size: 7.4 KB)
+0067.307 (0) Created themes zip (0) - 3806.5 KB in 31.8 s (119.8 KB/s) (sha1: 5af7b4644bae004111230254917d2b097d3164bf, sha256: 9288d0b670d8202a00e5f5563a3db18456863a8df251ec4ec7bf49363a9e8870)
+0072.265 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0072.266 (0) Looking for candidates to back up in: /home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs/wp-content/uploads
+0072.267 (0) finding files: 2017: adding to list (1)
+0072.267 (0) finding files: 2018: adding to list (2)
+0072.268 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0073.985 (0) Total entities for the zip file: 4 directories, 156 files (0 skipped as non-modified), 13.2 MB
+0073.998 (0) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0307.865 (1) Opened log file at time: Sat, 10 Feb 2018 16:40:14 +0000 on http://dearfuturecompany.com
+0307.866 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.8.5 PHP: 7.0.19 (apache2handler, Linux freeweb2.byetcluster.com 2.6.32-673.26.1.lve1.4.27.el6.x86_64 #1 SMP Sun May 7 19:22:54 EDT 2017 x86_64) MySQL: 5.6.21 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 20 memory_limit: 158M (used: 18.4M | 4M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0307.866 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0307.869 (1) Backup run: resumption=1, nonce=581ed7031179, begun at=1518280506 (308s ago), job type=backup, previous check-in=67.2s
+0307.873 (1) Scheduling a resumption (2) after 300 seconds (1518281114) in case this run gets aborted
+0307.883 (1) Checking if we have a zip executable available
+0307.884 (1) Creation of backups of directories: had begun; will resume
+0307.886 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0307.887 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip: this file has already been created (age: 275 s)
+0307.890 (1) Beginning creation of dump of themes (split every: 400 MB)
+0307.891 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip: this file has already been created (age: 241 s)
+0307.894 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0307.894 (1) Looking for candidates to back up in: /home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs/wp-content/uploads
+0307.895 (1) finding files: 2017: adding to list (1)
+0307.896 (1) finding files: 2018: adding to list (2)
+0307.897 (1) Beginning creation of dump of uploads (split every: 400 MB)
+0307.899 (1) File exists (/home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs/wp-content/updraft/backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1518280580, time_now=1518280814, diff=234)
+0307.900 (1) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip.tmp
+0307.918 (1) Total entities for the zip file: 4 directories, 156 files (0 skipped as non-modified), 13.2 MB
+0307.931 (1) Zip: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0329.350 (1) Created uploads zip (0) - 13445.4 KB in 21.4 s (626.8 KB/s) (sha1: daa4242ba633832ca7211b795318d445ddcc8084, sha256: 0e8a282d775f5dfc776df9b34053d5f11f2ead4efbc268a3d5e0f1fd62366135)
+0335.030 (1) Deleting old temporary file: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip.tmp.84ReE6
+0335.035 (1) Beginning backup of other directories found in the content directory (index: 0)
+0335.037 (1) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0335.037 (1) Looking for candidates to back up in: /home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs/wp-content
+0335.038 (1) finding files: updraft: skipping: this is the updraft directory
+0335.039 (1) finding files: index.php: adding to list (1)
+0335.039 (1) finding files: upgrade: skipping: excluded by options
+0335.040 (1) finding files: uploads: skipping: this is the uploads directory
+0335.040 (1) finding files: themes: skipping: this is the themes directory
+0335.041 (1) finding files: plugins: skipping: this is the plugins directory
+0335.058 (1) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0335.357 (1) Created others zip (0) - 0.1 KB in 0.3 s (0.4 KB/s) (sha1: 2aba5a5bc7b40b7cedd9ea2e1ef0a14b5cee7cf5, sha256: 996c34a6b63309734cdc375564f123479f56ab6bd0143a6b65500a4c49c4cea8)
+0335.372 (1) Saving backup status to database (elements: 8)
+0335.375 (1) Resuming creation of database dump (WordPress DB)
+0335.391 (1) Table wp2s_options: Total expected rows (approximate): 203
+0335.446 (1) Table wp2s_options: Total rows added: 199 in 0.05 seconds
+0335.448 (1) Table wp2s_options: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_options.table.gz - 184.8 KB)
+0335.452 (1) Table wp2s_users: Total expected rows (approximate): 1
+0335.455 (1) Table wp2s_users: Total rows added: 1 in 0.00 seconds
+0335.456 (1) Table wp2s_users: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_users.table.gz - 0.6 KB)
+0335.460 (1) Table wp2s_usermeta: Total expected rows (approximate): 25
+0335.464 (1) Table wp2s_usermeta: Total rows added: 25 in 0.00 seconds
+0335.465 (1) Table wp2s_usermeta: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_usermeta.table.gz - 1.2 KB)
+0335.469 (1) Table wp2s_commentmeta: Total expected rows (approximate): 0
+0335.471 (1) Table wp2s_commentmeta: Total rows added: 0 in 0.00 seconds
+0335.472 (1) Table wp2s_commentmeta: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_commentmeta.table.gz - 0.4 KB)
+0335.477 (1) Table wp2s_comments: Total expected rows (approximate): 1
+0335.480 (1) Table wp2s_comments: Total rows added: 1 in 0.00 seconds
+0335.481 (1) Table wp2s_comments: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_comments.table.gz - 0.7 KB)
+0335.492 (1) Table wp2s_links: Total expected rows (approximate): 0
+0335.496 (1) Table wp2s_links: Total rows added: 0 in 0.00 seconds
+0335.496 (1) Table wp2s_links: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_links.table.gz - 0.4 KB)
+0335.501 (1) Table wp2s_postmeta: Total expected rows (approximate): 353
+0335.508 (1) Table wp2s_postmeta: Total rows added: 353 in 0.01 seconds
+0335.509 (1) Table wp2s_postmeta: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_postmeta.table.gz - 7.6 KB)
+0335.513 (1) Table wp2s_posts: Total expected rows (approximate): 65
+0335.519 (1) Table wp2s_posts: Total rows added: 65 in 0.01 seconds
+0335.520 (1) Table wp2s_posts: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_posts.table.gz - 3.6 KB)
+0335.524 (1) Table wp2s_term_relationships: Total expected rows (approximate): 7
+0335.528 (1) Table wp2s_term_relationships: Total rows added: 7 in 0.00 seconds
+0335.529 (1) Table wp2s_term_relationships: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_term_relationships.table.gz - 0.4 KB)
+0335.533 (1) Table wp2s_term_taxonomy: Total expected rows (approximate): 5
+0335.544 (1) Table wp2s_term_taxonomy: Total rows added: 5 in 0.01 seconds
+0335.545 (1) Table wp2s_term_taxonomy: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_term_taxonomy.table.gz - 0.5 KB)
+0335.549 (1) Table wp2s_termmeta: Total expected rows (approximate): 0
+0335.552 (1) Table wp2s_termmeta: Total rows added: 0 in 0.00 seconds
+0335.553 (1) Table wp2s_termmeta: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_termmeta.table.gz - 0.4 KB)
+0335.557 (1) Table wp2s_terms: Total expected rows (approximate): 5
+0335.560 (1) Table wp2s_terms: Total rows added: 5 in 0.00 seconds
+0335.561 (1) Table wp2s_terms: finishing file (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_terms.table.gz - 0.5 KB)
+0335.566 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_options.table.gz (1/12): adding to final database dump
+0335.612 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_users.table.gz (2/12): adding to final database dump
+0335.613 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_usermeta.table.gz (3/12): adding to final database dump
+0335.614 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_commentmeta.table.gz (4/12): adding to final database dump
+0335.615 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_comments.table.gz (5/12): adding to final database dump
+0335.616 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_links.table.gz (6/12): adding to final database dump
+0335.617 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_postmeta.table.gz (7/12): adding to final database dump
+0335.621 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_posts.table.gz (8/12): adding to final database dump
+0335.623 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_term_relationships.table.gz (9/12): adding to final database dump
+0335.624 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_term_taxonomy.table.gz (10/12): adding to final database dump
+0335.625 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_termmeta.table.gz (11/12): adding to final database dump
+0335.626 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db-table-wp2s_terms.table.gz (12/12): adding to final database dump
+0335.627 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db.gz: finished writing out complete database file (176 KB)
+0335.637 (1) Total database tables backed up: 12 (backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db.gz, size: 202690, sha256)
+0335.645 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0335.646 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0335.646 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0335.647 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-others.zip: others: This file has not yet been successfully uploaded: will queue
+0335.648 (1) backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db.gz: db: This file has not yet been successfully uploaded: will queue
+0335.649 (1) Saving backup history. Total backup size: 23.4 MB
+0335.651 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0335.654 (1) Cloud backup selection (1/1): none with instance (1/1) (last)
+0335.655 (1) No remote despatch: user chose no remote backup service
+0335.656 (1) Recording as successfully uploaded: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-plugins.zip (5451d4697d9c4dc2feae64d09a785f01)
+0335.661 (1) Recording as successfully uploaded: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-themes.zip (dbdb91e7d322a5621a02c6f0dddea376)
+0335.665 (1) Recording as successfully uploaded: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-uploads.zip (3b7b816e2891bdb971caaef2e641c77a)
+0335.669 (1) Recording as successfully uploaded: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-others.zip (ec116d5ff14775bf4cec4b6218467251)
+0335.673 (1) Recording as successfully uploaded: backup_2018-02-10-1735_A_letter_to_my_future_employer_581ed7031179-db.gz (6b9ced5bd19cdb1d3df682469e68a504)
+0335.678 (1) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0335.679 (1) Resume backup (581ed7031179, 1): finish run
+0335.681 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0335.684 (1) No email will/can be sent - the user has not configured an email address.
+0335.685 (1) The backup apparently succeeded and is now complete

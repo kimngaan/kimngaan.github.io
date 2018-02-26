@@ -1,0 +1,50 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: February 12, 2018 11:31 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.32
+WORDPRESS:	4.8.5
+PHP INFO:	7.0.19 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: [20] not allowed 
+PHP MAX MEMORY: Unabled to set php memory_limit 
+MEMORY STACK: 26MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180212_alettertomyfutureemployer_abd34b795bdaabcb6188180212112732_database.sql 
+SQL FILE SIZE: 950.47KB (973278) 
+SQL FILE TIME: 2018-02-12 11:31:10 
+SQL RUNTIME: 3.86 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs 
+ARCHIVE FILE: 20180212_alettertomyfutureemployer_abd34b795bdaabcb6188180212112732_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	89.64MB 
+STATS:	Dirs 611 | Files 5,161 
+SQL ADDED: 20180212_alettertomyfutureemployer_abd34b795bdaabcb6188180212112732_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5772
+    [filename] => /home/vol11_3/rf.gd/rfgd_19780773/dearfuturecompany.com/htdocs/wp-snapshots/tmp/20180212_alettertomyfutureemployer_abd34b795bdaabcb6188180212112732_archive.zip
+    [comment] => 
+)
+ 
